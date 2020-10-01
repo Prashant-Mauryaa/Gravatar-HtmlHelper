@@ -1,6 +1,6 @@
 # Gravatar HtmlHelper for ASP.Net MVC
 
-This is a complete implementation of the [Gravatar](http://www.gravatar.com) image request API, according the [Gravatar documentation](http://en.gravatar.com/site/implement/images/), as an ASP.Net MVC HtmlHelper.
+This is a complete implementation of the [Gravatar](http://www.gravatar.com) image request API, According the [Gravatar documentation](http://en.gravatar.com/site/implement/images/), as an ASP.Net MVC HtmlHelper.
 
 
 ## Features
@@ -45,7 +45,7 @@ This is a complete implementation of the [Gravatar](http://www.gravatar.com) ima
   cssClass: "gravatar img-responsive")
 ```
 
-That's it. No attribution required, but feel free to [leave a comment on my blog](http://www.fatlemon.co.uk/gravatar) if you find it useful
+That's it. No attribution required, but feel free to [leave a comment on my blog](http://www.fatlemon.co.uk/gravatar) if it help you in anyway or you find it useful.
 
 
 ## Alternatives
